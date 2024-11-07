@@ -1,1 +1,1 @@
-# For problemSolving and Algoritms [searching/sorting]
+- For problemSolving and Algoritms [searching/sorting]
